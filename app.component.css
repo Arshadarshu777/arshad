@@ -1,0 +1,33 @@
+.main{
+    background-image: url(../../src/assets/martin-sanchez-hqenvhKfrLA-unsplash.jpg);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cv{
+    margin-left: 30%;
+    margin-top: 70px;
+}
+.cvex{
+    margin: top 90px;
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+    background-color: black;
+    opacity: 70%;
+}
+.strng{
+    margin-left: 30%;
+    margin-top: 210%;
+    background-color: black; 
+    opacity: 70%;
+}
+.prevention{
+    color: white;
+    margin-left: 10%;
+    background-color: black;
+    opacity: 70%;
+    width: 80%;
+}
